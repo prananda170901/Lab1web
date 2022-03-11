@@ -4,3 +4,4 @@
 ## Matkul : Pemograman Web
 ## BElajar html
 nama saya prananda 
+![Paragraf](ss/SS1.png)
