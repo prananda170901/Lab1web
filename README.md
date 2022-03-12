@@ -5,3 +5,5 @@
 ## Belajar HTML dasar
 ## Langkah - Langkah Praktikum
 nama saya prananda disini saya akan menjelaskan tentang membuat web dengan HTML
+Pertamas siapkan VSCODE dan Browser
+![Paragraf](ss/IMG%20(1).png)
