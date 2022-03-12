@@ -11,3 +11,7 @@ nama saya prananda disini saya akan menjelaskan tentang membuat web dengan HTML
 ![Paragraf](ss/SS1.png)
 <br>Selanjutnya buka file tersebut menggunakan browser. Disini saya menggunakan <b>Google Chrome</b>
 ![Paragraf](ss/SS2.png)
+
+## 1. Membuat Paragraf
+Buatlah Paragraf sederhana seperti berikut ini. dan kemudian lihat hasilnya dengan menrefresh pada web browser
+![Paragraf](ss/SS3.png)
