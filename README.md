@@ -11,3 +11,6 @@ Pertama siapkan VSCODE dan Browser
 
 Kemudian buat file baru dengan nama <b>Lab1_tag-dasar.HTML</b>
 ![Paragraf](ss/SS1.png)
+
+Selanjutnya buka file tersebut menggunakan browser. Disini saya menggunakan Google Chrome
+![Paragraf](ss/SS2.png)
