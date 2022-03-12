@@ -29,5 +29,3 @@ Lakukan performatan teks yang ada pada paragraf yang sudah ada sebelumnya, menga
 ![paragraf](ss/SS6.png)
 dan hasilnya akan seperti ini
 ![paragraf](ss/SS7.png)
-untuk memberi warna <span>="background-colour: warna yang ingin dipilih;">masuk kan kata yang ingin diberi warna</span>
-untuk menebalkan <b>, untuk memiringkan kata <i>, dan untuk menggaris bawah kata <u>
