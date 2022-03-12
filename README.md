@@ -10,3 +10,4 @@ Pertama siapkan VSCODE dan Browser
 ![Paragraf](ss/IMG%20(1).png)
 
 Kemudian buat file baru dengan nama <b>Lab1_tag-dasar.HTML</b>
+![Paragraf](ss/SS1.png)
