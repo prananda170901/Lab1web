@@ -15,3 +15,6 @@ nama saya prananda disini saya akan menjelaskan tentang membuat web dengan HTML
 ## 1. Membuat Paragraf
 Buatlah Paragraf sederhana seperti berikut ini. dan kemudian lihat hasilnya dengan menrefresh pada web browser
 ![Paragraf](ss/SS3.png)
+<br>kemudian atur atribut paragraf seperti berikut dan lihat perubahannya
+![paragraf](ss/SS4.png)
+simpan dan refresh web browser untuk melihat perubahannya. selanjutnya untuk mengubah model paragraf nilai atributnya (align = Justify, left, right dan center) untuk melihat perbedaannya
