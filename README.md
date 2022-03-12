@@ -14,3 +14,4 @@ Kemudian buat file baru dengan nama <b>Lab1_tag-dasar.HTML</b>
 
 Selanjutnya buka file tersebut menggunakan browser. Disini saya menggunakan Google Chrome
 ![Paragraf](ss/SS2.png)
+<br>fvggfgvgtygggvf
