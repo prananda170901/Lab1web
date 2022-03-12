@@ -5,14 +5,9 @@
 ## Belajar HTML dasar
 ## Langkah - Langkah Praktikum
 nama saya prananda disini saya akan menjelaskan tentang membuat web dengan HTML
-
-Pertama siapkan VSCODE dan Browser
+<br>Pertama siapkan VSCODE dan Browser
 ![Paragraf](ss/IMG%20(1).png)
-
-Kemudian buat file baru dengan nama <b>Lab1_tag-dasar.HTML</b>
+<br>Kemudian buat file baru dengan nama <b>Lab1_tag-dasar.HTML</b>
 ![Paragraf](ss/SS1.png)
-
-Selanjutnya buka file tersebut menggunakan browser. Disini saya menggunakan Google Chrome
+<br>Selanjutnya buka file tersebut menggunakan browser. Disini saya menggunakan <b>Google Chrome</b>
 ![Paragraf](ss/SS2.png)
-<br>fvggfgvgtygggvf
-<br>yttyfyfytft
