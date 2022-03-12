@@ -23,3 +23,9 @@ simpan dan refresh web browser untuk melihat perubahannya. selanjutnya untuk men
 judul memiliki 6 level yang berbeda mulai dari h1 sampai h6. kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub-judul h2 sebelum paragraf ke 2
 ![paragraf](ss/SS5.png)
 simpan dan lihat perubahannya
+## 3. Memformat Teks
+Lakukan performatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks sehingga tampilannya akan berbeda seperti berikut.
+<br>masukan code teks seperti berikut untuk melihat perubahan
+![paragraf](ss/SS6.png)
+dan hasilnya akan seperti ini
+![paragraf](ss/SS7.png)
