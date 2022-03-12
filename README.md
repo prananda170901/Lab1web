@@ -18,3 +18,8 @@ Buatlah Paragraf sederhana seperti berikut ini. dan kemudian lihat hasilnya deng
 <br>kemudian atur atribut paragraf seperti berikut dan lihat perubahannya
 ![paragraf](ss/SS4.png)
 simpan dan refresh web browser untuk melihat perubahannya. selanjutnya untuk mengubah model paragraf nilai atributnya (align = Justify, left, right dan center) untuk melihat perbedaannya
+
+## 2. Menambahkan Judul
+judul memiliki 6 level yang berbeda mulai dari h1 sampai h6. kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub-judul h2 sebelum paragraf ke 2
+![paragraf](ss/SS5.png)
+simpan dan lihat perubahannya
