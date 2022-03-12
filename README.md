@@ -8,3 +8,5 @@ nama saya prananda disini saya akan menjelaskan tentang membuat web dengan HTML
 
 Pertama siapkan VSCODE dan Browser
 ![Paragraf](ss/IMG%20(1).png)
+
+Kemudian buat file baru dengan nama <b>Lab1_tag-dasar.HTML</b>
