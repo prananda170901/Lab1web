@@ -37,3 +37,5 @@ dan hasilnya akan seperti ini
 ![paragraf](ss/SS9.png)
 <br>Gambar akan di tampilkan apa adanya sesuai ukuran aslinya. untuk mengatur ukuran gambar, dapat menggunakan atribut witdh dan height dengan nilai interger yang di sesusaikan seperti contoh di atas. nanti gambar akan seperti berikut inii :
 ![paragraf](ss/SS10.png)
+
+## 5. menambahkan Hyper Links
