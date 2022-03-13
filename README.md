@@ -39,3 +39,7 @@ dan hasilnya akan seperti ini
 ![paragraf](ss/SS10.png)
 
 ## 5. menambahkan Hyper Links
+<br>Tambahkan Hyperlink pada dokumen sebelum heading 1 seperti gambar berikut :
+![paragraf](ss/SS11.png)
+<br>Nanti hyperlink akan berada di atas seperti gambar berikut :
+![paragraf](ss/SS12.png)
