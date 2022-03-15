@@ -49,3 +49,5 @@ dan hasilnya akan seperti ini
 
 <br>Nanti hyperlink akan berada di atas seperti gambar berikut :
 ![paragraf](ss/SS12.png)
+ 
+<br>Sekian penjelasan dari saya tentang membuat HTML menggunakan VSCode semoga mudah di mengerti sekian dari saya. TerimaKasih
