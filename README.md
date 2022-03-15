@@ -62,3 +62,8 @@ error ketika terjadi kesalahan penulisan tag?
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut
+
+# Jawaban
+<br> 1. Saya akan melakukan perbedaan tag HTML sebelum dan sesudah perubahaan.
+<br>Sebelum perubahan akan seperti gambar berikut :
+![p](ss/SS13.png)
