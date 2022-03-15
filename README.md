@@ -69,4 +69,4 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut
 ![p](ss/SS13.png)
 <br>Setelah perubahan gambar akan seperti berikut :
 ![p](ss/SS14.png)
-<br>Disini saya melakukan perubahan dengan menghilangkan akhiran pada tag </h> menjadi <h1>, maka akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti tag <h1> dikarenakan tidak ada penutup pada tag tersebut
+<br>Disini saya melakukan perubahan dengan menghilangkan akhiran pada tag '</h>' menjadi '<h1>', maka akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti tag '<h1>' dikarenakan tidak ada penutup pada tag tersebut
