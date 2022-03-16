@@ -82,6 +82,7 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut
 ![p](ss/SS17.png)
 ![p](ss/SS18.png)
 
+## No 5
 <br> `<_blank>` untuk membuka link di tab baru
 
 <br> `<_self>` untuk membuka link di frame link itu berada
