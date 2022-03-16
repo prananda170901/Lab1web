@@ -76,3 +76,8 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut
 ![p](ss/SS15.png)
 
 <br> 3. `title` berfungsi untuk memberikan judul pada gambar, sedangkan `alt` berfungsi untuk menunjukan sebuat alternatif text (teks pengganti) yang akan muncul apabila gambar tidak dapat di tampilkan. seperti gambar di bawah ini menunjukan perbedaan title dan alt
+![p](ss/SS16.png)
+
+<br> 4. Menurut saya tidak harus menggunakan keduanya karena jika menggunakan keduanya dengan ukuran angka yang sama ukuran gambar pada web tidak simetris. sedangkan jika hanya mengunakan salah satu ukurannya akan bertambah besar secara simetris. contoh seperti gambar di bawah berikut ini :
+![p](ss/SS17.png)
+![p](ss/SS18.png)
