@@ -70,3 +70,9 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut
 <br>Setelah perubahan gambar akan seperti berikut :
 ![p](ss/SS14.png)
 <br>Disini saya melakukan perubahan dengan menghilangkan akhiran pada tag `</h1>` menjadi `<h1>` maka akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti tag `<h1>` dikarenakan tidak ada penutup pada tag tersebut
+
+<br> 2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada HTML tag. `<br>`berfungsi untuk memberikan perintah breakline atau baris baru
+<br> Seperti gambar berikut ini
+![p](ss/SS15.png)
+
+<br> 3. `title` berfungsi untuk memberikan judul pada gambar, sedangkan `alt` berfungsi untuk menunjukan sebuat alternatif text (teks pengganti) yang akan muncul apabila gambar tidak dapat di tampilkan. seperti gambar di bawah ini menunjukan perbedaan title dan alt
